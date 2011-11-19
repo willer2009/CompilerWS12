@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/129/trunk/GlobalTypes
+END
+Helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/trunk/GlobalTypes/Helper.cpp
+END
+Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/88/trunk/GlobalTypes/Test.cpp
+END
+Token.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/115/trunk/GlobalTypes/Token.cpp
+END
+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/128/trunk/GlobalTypes/Helper.h
+END
+Token.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/115/trunk/GlobalTypes/Token.h
+END
+Setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/121/trunk/GlobalTypes/Setup.h
+END
+TokenType.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/129/trunk/GlobalTypes/TokenType.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/GlobalTypes/ReadMe.txt
+END

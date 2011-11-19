@@ -1,0 +1,13 @@
+/**
+* Blablabla will keinen Roman mehr schr.
+*
+* @author Stefan Schorn
+*/
+
+#include <iostream>
+#include "Automat.h"
+using namespace std;
+
+int main(){
+	//Automat* automat = new Automat();
+}

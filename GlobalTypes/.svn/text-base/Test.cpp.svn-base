@@ -1,0 +1,13 @@
+/**
+* Blablabla will keinen Roman mehr schr.
+*
+* @author Stefan Schorn
+*/
+
+#include "Token.h"
+#include "TokenType.h"
+#include "Setup.h"
+
+int main(){
+	Token* token = new Token();
+}

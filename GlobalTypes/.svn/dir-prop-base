@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 48
+*.user
+*.vcproj
+stdafx.cpp
+stdafx.h
+targetver.h
+
+END

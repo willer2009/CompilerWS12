@@ -1,0 +1,7 @@
+#include "Helper.h"
+
+static int Helper::getLength(const char* array) {
+	int length;
+	for(length = 0; array[length] != '\0'; length++);
+	return length;
+}
